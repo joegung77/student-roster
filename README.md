@@ -11,7 +11,7 @@
 ![Alt text](demo-images/postmapping.png?raw=true "postmapping")
 <br>
 
-![Alt text](demo-images/getmapping2.png?raw=true "getmapping")
+![Alt text](demo-images/postmapping2.png?raw=true "getmapping")
 
 <br><br>
 
