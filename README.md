@@ -27,5 +27,5 @@
 
 <br><br>
 
-## PostgreSQL
+## PostgreSQL Student Schema
 ![Alt text](demo-images/postgresql.png?raw=true "postgresql")
