@@ -1,6 +1,6 @@
 # Student Roster API
 ### Spring Boot and PostgreSQL
-
+<br><br>
 
 ## Roster List (GET REQUEST)
 ![Alt text](demo-images/getmapping.png?raw=true "getmapping")
